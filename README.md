@@ -19,4 +19,4 @@ As of now the webpage is developed in **HTML 5**. It will be enhanced with follo
 
 This readme file is written with the help of [Markdown Tutorial](https://www.markdowntutorial.com).
 
-Assignment Submission Number **d249138b-4001-4c1f-b362-bebcbff175d5**.
+Assignment submission confirmation number **d249138b-4001-4c1f-b362-bebcbff175d5**.
