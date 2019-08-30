@@ -10,7 +10,7 @@
   3. New York, _NY_
 
   Mr. John Doe, a customer says this about the _Dunder Mifflin Paper Company_
-  > Dunder Mifflin Paper Company provide the most excellent customer service when it comes to your paper needs.
+  > Dunder Mifflin Paper Company provides the most excellent customer service when it comes to your paper needs.
 
 As of now the webpage is developed in **HTML 5**. It will be enhanced with following web technologies:
 * CSS 3
