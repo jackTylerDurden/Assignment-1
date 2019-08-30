@@ -17,4 +17,4 @@ As of now the webpage is developed in **HTML 5**. It will be enhanced with follo
 * Javascript
 * Various Javascript frameworks and libraries such as _jQuery, AngularJS, ReactJS_ etc.
 
-This readme file is written with the help of [Markdown Tutorial](https://www.markdowntutorial.com).
+This information is written with the help of [Markdown Tutorial](https://www.markdowntutorial.com).
