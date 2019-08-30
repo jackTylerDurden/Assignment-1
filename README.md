@@ -1,7 +1,7 @@
 # Assignment 1
  CS 648 - Assignment 1
   This is a webpage for a paper company **Dunder Mifflin Paper Company**. 
-  ##About _Dunder Mifflin Paper Company_
+  ## About _Dunder Mifflin Paper Company_
   Dunder Mifflin Paper Company offices are located at:
   1. San Diego, _CA_
   2. Scranton, _PA_
